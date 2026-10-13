@@ -1,0 +1,6 @@
+{
+ "name":"Wings of Fury","short_name":"Wings of Fury","description":"Clone du jeu d'avion Wings of Fury",
+ "start_url":"./index.html","scope":"./","display":"fullscreen","orientation":"landscape",
+ "background_color":"#0b1a2b","theme_color":"#0b1a2b",
+ "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
